@@ -2,7 +2,7 @@ MovieClipJS
 ===========
 
 Create MovieClips with Javascript using Spritesheets  
-[http://fahimchowdhury.com/utensil/movieclipjs/](tutorial)
+[DEMO](http://fahimchowdhury.com/utensil/movieclipjs/)
   
 #Why use This?  
 Cross-browser compatibilty is always an issue for clients and everyone wants HTML 5 but that doesn't work for legacy browsers.  
