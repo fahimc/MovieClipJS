@@ -1,7 +1,7 @@
 MovieClipJS
 ===========
 
-Create MovieClips with Javascript using Spritesheets  
+Create MovieClips with Javascript using Spritesheets. Animating Spritesheets in JavaScript.  
 [DEMO](http://fahimchowdhury.com/utensil/movieclipjs/)
   
 #Why use This?  
